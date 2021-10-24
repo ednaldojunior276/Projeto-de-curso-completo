@@ -1,0 +1,29 @@
+p{
+    text-align: justify;
+    text-indent: 50px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+ul li{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3, h2, h4{
+    text-transform: uppercase;
+    color: white;
+}
+
+section{
+    background-color: rgba(0, 0, 4, 0.405);
+    color:darkgrey;
+    padding: 20px;
+}
+
+body{
+    background-image: url(../Imagens/fundo.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}

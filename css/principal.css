@@ -1,0 +1,41 @@
+body{
+    background-image: url(../Imagens/foto01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container
+{   
+    position: absolute;
+    top: 120px;
+    left: 330px;
+    
+}
+p{
+    font-size: 130px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+    
+}
+
+#login{
+    border: 1px solid black;
+    margin: 10px;
+    background-color: cornflowerblue;
+}
+#senha{
+    border: 1px solid black;
+    margin: 10px;
+    background-color: cornflowerblue;
+    width: 50px;
+}
+
+#btn{
+    width: 300px;
+    margin: 20px;
+    
+}
+
+

@@ -1,0 +1,39 @@
+button{
+    width: 300px;
+}
+
+.content{
+    border: 1px solid black;
+    margin: 30px;
+    background-color: rgba(0, 0, 4, 0.405); 
+    box-shadow: 1px 2px 3px black;  
+}
+
+form{
+    margin: 30px;
+}
+h1{
+    margin: 30px;
+    color: white;
+}
+
+body{
+    background-image: url(../Imagens/foto01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#aa{
+    color: white;
+}
+p{
+    color: white;
+}
+#senha
+{
+    width: 800px;
+}
+#res0
+{
+    width: 800px;
+}
